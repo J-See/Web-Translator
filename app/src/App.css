@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  font-size: larger;
+}
+
+div {
+  padding: 10px;
+}
+
+select {
+  padding: 5px;
+}
+
+textarea {
+  text-align: center;
+  font-size: x-large;
+}
